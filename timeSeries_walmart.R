@@ -1,7 +1,6 @@
 #**********************************************************************************
 # Problem Statement - Walmart Sales Prediction.
 # Method Used       - Time Series
-# Written By        - Rishabh Kalia,Shivam Narula, Vishu Choudhary
 #**********************************************************************************
 
 #install.packages('forecast')
